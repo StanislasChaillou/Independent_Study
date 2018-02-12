@@ -12,11 +12,11 @@ Can machine learning enhance simple CAD tasks, and even assist the designer in t
 
 <b>Description</b>
 
-This project can be broken down in 2 parts: understanding what we want the tool to be able to recognize (commonly called the testing set), and what we want the tool to be trained on (the training set). 
+<p align="justify">This project can be broken down in 2 parts: understanding what we want the tool to be able to recognize (commonly called the testing set), and what we want the tool to be trained on (the training set). 
 In our case simplifying the challenge to simple objects will insure the feasibility of this independent study. Therefore, we will train the algorithm to be able to recognize chairs, tables, doors and windows. Consequently, our training set will be a serie of 3d objects of these category, found in the ShapeNet  Library. This database offers pre-labeled objects and 360-degree views of them. The size of the training set and the training methodology will be determined in the first weeks of the independent study.
 Ideally, using Keras, a machine learning package for Python, we will be able to create a convolutional neural network model, that will be able to learn from our objects’ images.
 Using this technic, our goal ultimately is to be able to give a label to an object being modeled by the user, search in an extensive database of models according to the found label, and finally serve the matches we find to the user, through a simple interface. For the sake of this independent study, it might be more realistic to simply create a web-app that will be able to perform this task, and reserve for later the integration of this tool as a plugin in traditional modeling software.
-Overall, our tool would comply with the following scheme:
+Overall, our tool would comply with the following scheme:</p>
  
 <b>Deliverables</b>
 
