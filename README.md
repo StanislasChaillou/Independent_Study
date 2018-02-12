@@ -18,6 +18,9 @@ Ideally, using Keras, a machine learning package for Python, we will be able to 
 Using this technic, our goal ultimately is to be able to give a label to an object being modeled by the user, search in an extensive database of models according to the found label, and finally serve the matches we find to the user, through a simple interface. For the sake of this independent study, it might be more realistic to simply create a web-app that will be able to perform this task, and reserve for later the integration of this tool as a plugin in traditional modeling software.
 Overall, our tool would comply with the following scheme:</p>
  
+ ![alt text]( https://github.com/StanislasChaillou/Independent_Study/blob/master/Other/img_1.jpg)
+
+ 
 <b>Deliverables</b>
 
 <ul>
