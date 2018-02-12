@@ -21,9 +21,9 @@ Overall, our tool would comply with the following scheme:
 Deliverables
 
 •	Research precedents in the field of suggestive CAD.
-o	Success criteria: precedents study is sufficiently exhaustive to inform future research. The precedents are understood in depth by the student.
+   o	Success criteria: precedents study is sufficiently exhaustive to inform future research. The precedents are understood in depth by the student.
 •	Algorithm trained for a given set of 3d objects
-o	Success criteria: algorithm can perform simple recognition task on CAD objects, and tracing. One clear use case has been isolated, and the algorithm performs well enough for a given set of tasks.
+   o	Success criteria: algorithm can perform simple recognition task on CAD objects, and tracing. One clear use case has been isolated, and the algorithm performs well enough for a given set of tasks.
 
 Scheduling
 
