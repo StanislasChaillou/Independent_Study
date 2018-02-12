@@ -19,12 +19,12 @@ Using this technic, our goal ultimately is to be able to give a label to an obje
 Overall, our tool would comply with the following scheme:
  
 Deliverables
-
-•	Research precedents in the field of suggestive CAD.
-   o	Success criteria: precedents study is sufficiently exhaustive to inform future research. The precedents are understood in depth by the student.
-•	Algorithm trained for a given set of 3d objects
-   o	Success criteria: algorithm can perform simple recognition task on CAD objects, and tracing. One clear use case has been isolated, and the algorithm performs well enough for a given set of tasks.
-
+<ul>
+<li>•	Research precedents in the field of suggestive CAD.</li>
+   <li>o	Success criteria: precedents study is sufficiently exhaustive to inform future research. The precedents are understood in depth by the student.</li>
+<li>•	Algorithm trained for a given set of 3d objects</li>
+   <li>o	Success criteria: algorithm can perform simple recognition task on CAD objects, and tracing. One clear use case has been isolated, and the algorithm performs well enough for a given set of tasks.</li>
+</ul>
 Scheduling
 
 •	02-05 until 02-26: Precedents study. 
