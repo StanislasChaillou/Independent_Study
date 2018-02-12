@@ -1,9 +1,9 @@
 # Independent_Study
 Independent Study @ Harvard GSD
 
-<b>Suggestive CAD</b>
+<b><h2>Suggestive CAD</h2></b>
 
-Independent Study Proposal | Spring 2018 | Stanislas Chaillou | Collaboration : Thomas Trinelle, Flux Data Inc | Advisor : Andrew Witt
+<i>Independent Study Proposal | Spring 2018 | Stanislas Chaillou | Collaboration : Thomas Trinelle, Flux Data Inc | Advisor : Andrew Witt</i>
 
 The utilization of machine intuition has been leveraged in countless industries, from voice recognition, to suggestive search on the web, down to CCTV image processing. As the design process in architecture happens mostly through the medium of 3D software (Rhinoceros 3D, Maya, 3DSmax), our discipline could also benefit from the help of machine-generated suggestions. This is the goal of this independent study: study and propose a way to assist the designer, through suggestive modeling. As designers draw in the 3D space, a machine-learning-based algorithm would be able to assist the designer by proposing alternative, similar or complementary options to them. 
 In a nutshell, we would look into precedent works in the field of suggestive modeling, to finally come up with a methodology and a tool that would be able to suggest models to designers as they draw. 
@@ -20,25 +20,26 @@ Overall, our tool would comply with the following scheme:
  
 Deliverables
 <ul>
-<li>•	Research precedents in the field of suggestive CAD.</li>
-   <li>o	Success criteria: precedents study is sufficiently exhaustive to inform future research. The precedents are understood in depth by the student.</li>
-<li>•	Algorithm trained for a given set of 3d objects</li>
-   <li>o	Success criteria: algorithm can perform simple recognition task on CAD objects, and tracing. One clear use case has been isolated, and the algorithm performs well enough for a given set of tasks.</li>
+<li>Research precedents in the field of suggestive CAD.</li>
+   <li>Success criteria: precedents study is sufficiently exhaustive to inform future research. The precedents are understood in depth by the student.</li>
+<li>Algorithm trained for a given set of 3d objects</li>
+   <li>Success criteria: algorithm can perform simple recognition task on CAD objects, and tracing. One clear use case has been isolated, and the algorithm performs well enough for a given set of tasks.</li>
 </ul>
 Scheduling
-
-•	02-05 until 02-26: Precedents study. 
-•	02-27 until 03-26: Database preparation, algorithm design and training
-•	03-27 until 04-15: Algorithm test.
-•	04-16 until 04-30: Further investigation, and application to concrete architectural use case.
-•	04-30 until 05-06: Draft of final report
-
+<ul>
+<li>02-05 until 02-26: Precedents study. </li>
+<li>02-27 until 03-26: Database preparation, algorithm design and training</li>
+<li>03-27 until 04-15: Algorithm test.</li>
+<li>04-16 until 04-30: Further investigation, and application to concrete architectural use case.</li>
+<li>04-30 until 05-06: Draft of final report</li>
+</ul>
 Bibliography
-
-•	Multi-view Convolutional Neural Networks for 3D Shape Recognition, Hang Su, Subhransu Maji, Evangelos Kalogerakis, Erik Learned-Miller, University of Massachussets Amherst, 
-•	3D Modeling with Data-Driven Suggestions, Siddhartha Chaudhuri, Stanford University, August 2011.
-•	Weakly-Supervised Component Suggestions for 3D Modeling, MINHYUK SUNG, Stanford University, HAO SU, Stanford University and University of California San Diego, VLADIMIR G. KIM, Adobe Research, SIDDHARTHA CHAUDHURI, IIT Bombay, LEONIDAS GUIBAS, Stanford University, Septembre 2017.
-•	Data-Driven Suggestions for Creativity Support in 3D Modeling, Siddhartha Chaudhuri Vladlen Koltun, Stanford University, June 2016.
-•	LightNet: A Lightweight 3D Convolutional Neural Network for Real-Time 3D Object Recognition, S. Zhi, Y. Liu, X. Li, and Y. Guo, National University of Defense Technology, China, August 2016.
-•	Parsing IKEA Objects: Fine Pose Estimation, Joseph J. Lim Hamed Pirsiavash Antonio Torralba, MIT, 
-•	Remixing and Resampling Three Dimensional Objects Use of Volumetric Representations And Machine Learning in Design, Nam Ju, Harvard Graduate School of Design, June 2017
+<ul>
+<li>Multi-view Convolutional Neural Networks for 3D Shape Recognition, Hang Su, Subhransu Maji, Evangelos Kalogerakis, Erik Learned-Miller, University of Massachussets Amherst</li> 
+<li>3D Modeling with Data-Driven Suggestions, Siddhartha Chaudhuri, Stanford University, August 2011.</li>
+<li>Weakly-Supervised Component Suggestions for 3D Modeling, MINHYUK SUNG, Stanford University, HAO SU, Stanford University and University of California San Diego, VLADIMIR G. KIM, Adobe Research, SIDDHARTHA CHAUDHURI, IIT Bombay, LEONIDAS GUIBAS, Stanford University, Septembre 2017.</li>
+<li>Data-Driven Suggestions for Creativity Support in 3D Modeling, Siddhartha Chaudhuri Vladlen Koltun, Stanford University, June 2016.</li>
+<li>LightNet: A Lightweight 3D Convolutional Neural Network for Real-Time 3D Object Recognition, S. Zhi, Y. Liu, X. Li, and Y. Guo, National University of Defense Technology, China, August 2016.</li>
+<li>Parsing IKEA Objects: Fine Pose Estimation, Joseph J. Lim Hamed Pirsiavash Antonio Torralba, MIT</li>
+<li>Remixing and Resampling Three Dimensional Objects Use of Volumetric Representations And Machine Learning in Design, Nam Ju, Harvard Graduate School of Design, June 2017</li>
+</ul>
