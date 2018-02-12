@@ -5,10 +5,10 @@ Independent Study @ Harvard GSD
 
 <i>Independent Study Proposal | Spring 2018 | Stanislas Chaillou | Advisor : Andrew Witt | Collaboration : Thomas Trinelle </i>
 
-The utilization of machine intuition has been leveraged in countless industries, from voice recognition, to suggestive search on the web, down to CCTV image processing. As the design process in architecture happens mostly through the medium of 3D software (Rhinoceros 3D, Maya, 3DSmax), our discipline could also benefit from the help of machine-generated suggestions. This is the goal of this independent study: study and propose a way to assist the designer, through suggestive modeling. As designers draw in the 3D space, a machine-learning-based algorithm would be able to assist the designer by proposing alternative, similar or complementary options to them. 
+<justify>The utilization of machine intuition has been leveraged in countless industries, from voice recognition, to suggestive search on the web, down to CCTV image processing. As the design process in architecture happens mostly through the medium of 3D software (Rhinoceros 3D, Maya, 3DSmax), our discipline could also benefit from the help of machine-generated suggestions. This is the goal of this independent study: study and propose a way to assist the designer, through suggestive modeling. As designers draw in the 3D space, a machine-learning-based algorithm would be able to assist the designer by proposing alternative, similar or complementary options to them. 
 In a nutshell, we would look into precedent works in the field of suggestive modeling, to finally come up with a methodology and a tool that would be able to suggest models to designers as they draw. 
 Problematic
-Can machine learning enhance simple CAD tasks, and even assist the designer in the design process, by suggesting potential design options?
+Can machine learning enhance simple CAD tasks, and even assist the designer in the design process, by suggesting potential design options?</justify>
 
 <b>Description</b>
 
