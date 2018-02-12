@@ -1,7 +1,7 @@
 # Independent_Study
 Independent Study @ Harvard GSD
 
-Suggestive CAD
+<b>Suggestive CAD</b>
 
 Independent Study Proposal | Spring 2018 | Stanislas Chaillou | Collaboration : Thomas Trinelle, Flux Data Inc | Advisor : Andrew Witt
 
@@ -10,7 +10,7 @@ In a nutshell, we would look into precedent works in the field of suggestive mod
 Problematic
 Can machine learning enhance simple CAD tasks, and even assist the designer in the design process, by suggesting potential design options?
 
-Description
+<b>Description</b>
 
 This project can be broken down in 2 parts: understanding what we want the tool to be able to recognize (commonly called the testing set), and what we want the tool to be trained on (the training set). 
 In our case simplifying the challenge to simple objects will insure the feasibility of this independent study. Therefore, we will train the algorithm to be able to recognize chairs, tables, doors and windows. Consequently, our training set will be a serie of 3d objects of these category, found in the ShapeNet  Library. This database offers pre-labeled objects and 360-degree views of them. The size of the training set and the training methodology will be determined in the first weeks of the independent study.
