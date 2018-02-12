@@ -18,14 +18,17 @@ Ideally, using Keras, a machine learning package for Python, we will be able to 
 Using this technic, our goal ultimately is to be able to give a label to an object being modeled by the user, search in an extensive database of models according to the found label, and finally serve the matches we find to the user, through a simple interface. For the sake of this independent study, it might be more realistic to simply create a web-app that will be able to perform this task, and reserve for later the integration of this tool as a plugin in traditional modeling software.
 Overall, our tool would comply with the following scheme:
  
-Deliverables
+<b>Deliverables</b>
+
 <ul>
 <li>Research precedents in the field of suggestive CAD.</li>
    <li>Success criteria: precedents study is sufficiently exhaustive to inform future research. The precedents are understood in depth by the student.</li>
 <li>Algorithm trained for a given set of 3d objects</li>
    <li>Success criteria: algorithm can perform simple recognition task on CAD objects, and tracing. One clear use case has been isolated, and the algorithm performs well enough for a given set of tasks.</li>
 </ul>
-Scheduling
+
+<b>Scheduling</b>
+
 <ul>
 <li>02-05 until 02-26: Precedents study. </li>
 <li>02-27 until 03-26: Database preparation, algorithm design and training</li>
@@ -33,7 +36,9 @@ Scheduling
 <li>04-16 until 04-30: Further investigation, and application to concrete architectural use case.</li>
 <li>04-30 until 05-06: Draft of final report</li>
 </ul>
-Bibliography
+
+<b>Bibliography</b>
+
 <ul>
 <li>Multi-view Convolutional Neural Networks for 3D Shape Recognition, Hang Su, Subhransu Maji, Evangelos Kalogerakis, Erik Learned-Miller, University of Massachussets Amherst</li> 
 <li>3D Modeling with Data-Driven Suggestions, Siddhartha Chaudhuri, Stanford University, August 2011.</li>
