@@ -11,4 +11,5 @@
 	- Long training. Too for personal laptop, without GPU
 	- Accuracy potentially higher than standard neural net model
 	- Accuracy around 0.69 on validation set after 3 hours of training
-<b>Next step:</b> Leverage pretrained models to speed up training time, and increase accuracy on validation set.
+
+**Next step:** Leverage pretrained models to speed up training time, and increase accuracy on validation set.
