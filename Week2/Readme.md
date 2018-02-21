@@ -9,6 +9,7 @@
 	- Strong overfitting after 20 epochs
 
 ![alt text](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week2/IMG/acc.png)
+![alt text](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week2/IMG/loss.png)
 
 - Convolutional Neural network:
 	- Long training time
