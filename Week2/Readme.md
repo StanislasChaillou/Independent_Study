@@ -7,7 +7,8 @@
 	- Short training time
 	- Accuracy around 0.8 on validation set
 	- Strong overfitting after 20 epochs
-[Contribution guidelines for this project](IMG/acc.png)
+
+![alt text](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week2/IMG/acc.png)
 
 - Convolutional Neural network:
 	- Long training time
