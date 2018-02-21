@@ -3,7 +3,7 @@
 **Goals:** Implement Convolutional Neural network to classify pictures of 3D objects, based on pretrained models.
 
 **Results:**
-- VGG model (1):
+- VGG model:
 	- Short training time
 	- Accuracy around 0.8 on validation set
 	- Strong overfitting after 20 epochs
