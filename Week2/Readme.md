@@ -3,7 +3,7 @@
 **Goals:** Implement Convolutional Neural network to classify pictures of 3D objects, based on pretrained models.
 
 **Results:**
-- VGG model:
+- **VGG model**:
 	- Short training time
 	- Accuracy around 0.8 on validation set
 	- Strong overfitting after 20 epochs
@@ -11,7 +11,7 @@
 ![alt text](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week2/IMG/acc.png)
 ![alt text](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week2/IMG/loss.png)
 
-- ResNet50:
+- **ResNet50**:
 	- Long training time
 	- Accuracy around 0.65 on validaiton set. Noisy Accuracy.
 	- Very Strong Overfitting after 60 epochs. 
