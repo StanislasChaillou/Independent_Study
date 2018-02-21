@@ -1,6 +1,6 @@
 ## Week 1
 
-** Goals: ** Implement Neural Network to classify pictures of 3D objects. 9 classes: Chair, Table, Bench, Plant, Bed, Couch, Cabinet, Lamp.
+**Goals:** Implement Neural Network to classify pictures of 3D objects. 9 classes: Chair, Table, Bench, Plant, Bed, Couch, Cabinet, Lamp.
 
 **Results:**
 <ul>
@@ -18,4 +18,3 @@ Convolutional Neural network:
 </ul>  
 
 <b>Next step:</b> Leverage pretrained models to speed up training time, and increase accuracy on validation set.
-</html>
