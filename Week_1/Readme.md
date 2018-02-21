@@ -11,12 +11,13 @@
 		<li>Limited for image recognition</li>
 		<ul/>
 	</li>
-Convolutional Neural network:
+<li>Convolutional Neural network:
 		<ul>
 		<li>Long training. Too for personal laptop, without GPU</li>
 		<li>Accuracy potentially higher than standard neural net model</li>
 		<li>Accuracy around 0.69 on validation set after 3 hours of training.</li>
 		</ul>
+	</li>
 </ul>  
 
 <b>Next step:</b> Leverage pretrained models to speed up training time, and increase accuracy on validation set.
