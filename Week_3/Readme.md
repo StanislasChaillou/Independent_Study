@@ -15,6 +15,7 @@ Work completed this week:
   - Delete last layer of pretrained model
   - Add drop-out layers
 - **Deployed early version of Web-App** for Testing, based on three.js template. >> http://stanislaschaillou.com/model_viewer/
+  <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week_3/webapp.jpg" width="700"></div>
 
 **Next Steps**: 
   - Further train algorithm to reach 92/93% accuracy on validation set
