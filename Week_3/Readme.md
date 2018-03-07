@@ -5,7 +5,7 @@ Work completed this week:
 - **Dataset Improvement**:
   - Script GH components to generate batch of images from 3D models, based on a spherical rotation:  
   
-  <div align="center" style="padding:10px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week_3/CHair_view.jpg" width="300"></div>
+  <div align="center" style="padding:10px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week_3/Chair_view.jpg" width="300"></div>
   
   - Double size of dataset: Increase number of classes (10) and number of images per object (from 14 to 30).
 - **Reduce overfitting**:
