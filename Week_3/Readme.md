@@ -2,20 +2,20 @@
 
 Work completed this week:
 
-- Dataset Improvement:
+- **Dataset Improvement**:
   - Script GH components to generate batch of images from 3D models, based on a spherical rotation:  
   
-  ![alt text](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week_3/catpure_diagram.jpg)
+  ![alt text](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week_3/catpure_diagram.jpg){:height="80px"}
   
   - Double size of dataset: Increase number of classes (10) and number of images per object (from 14 to 30).
-- Reduce overfitting:
+- **Reduce overfitting**:
   - Increase dataset size
   - Add gaussian blur to images
   - Delete last layer of pretrained model
   - Add drop-out layers
-- Deployed early version of Web-App for Testing, based on three.js template. >> http://stanislaschaillou.com/model_viewer/
+- **Deployed early version of Web-App** for Testing, based on three.js template. >> http://stanislaschaillou.com/model_viewer/
 
-Next Steps: 
+**Next Steps**: 
   - Further train algorithm to reach 92/93% accuracy on validation set
   - Further tune model to counter overfitting. 
   - Save model to the back-end of web-app, and connect back and front end of web-app.
