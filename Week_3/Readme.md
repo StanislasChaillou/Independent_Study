@@ -4,14 +4,13 @@ Work completed this week:
 
 - Dataset Improvement:
   - Script GH components to generate batch of images from 3D models, based on a spherical rotation:                                
-
-- Double size of dataset: Increase number of classes (10) and number of images per object (from 14 to 30).
-  - Reduce overfitting:
-    - Increase dataset size
-    - Add gaussian blur to images
-    - Delete last layer of pretrained model
-    - Add drop-out layers
-  - Deployed early version of Web-App for Testing, based on three.js template. >> http://stanislaschaillou.com/model_viewer/
+  - Double size of dataset: Increase number of classes (10) and number of images per object (from 14 to 30).
+- Reduce overfitting:
+  - Increase dataset size
+  - Add gaussian blur to images
+  - Delete last layer of pretrained model
+  - Add drop-out layers
+- Deployed early version of Web-App for Testing, based on three.js template. >> http://stanislaschaillou.com/model_viewer/
 
 Next Steps: 
   - Further train algorithm to reach 92/93% accuracy on validation set
