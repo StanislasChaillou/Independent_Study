@@ -13,7 +13,7 @@ Work completed this week:
   
   - **Result:**
   For the same amount of classes, a higher image resolution and a new image capturing path for the camera, our model performs around 93% accuracy on the validation set (against 80% for the previous model).
-    <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week_3/model1model2_.JPG" width="700"></div>
+    <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week_3/model1model2_.jpg" width="700"></div>
   
   
 - **Reduce overfitting**:
