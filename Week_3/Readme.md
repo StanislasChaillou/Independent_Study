@@ -9,6 +9,11 @@ Work completed this week:
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week_3/capture.gif" width="700"></div>
   
   - Double size of dataset: Increase number of classes (10) and number of images per object (from 14 to 30).
+  - Upload to cloud, with FloydHub, to leverage higher computational power.
+  - **Result:**
+  For the same amoount of classes, a higher image resolution and a new image capturing path for the camera, our model performs around 93% accuracy on the validation set (against 80% for the previous model).
+  
+  
 - **Reduce overfitting**:
   - Increase dataset size
   - Add gaussian blur to images
@@ -18,7 +23,5 @@ Work completed this week:
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week_3/webapp.jpg" width="700"></div>
 
 **Next Steps**: 
-  - Further train algorithm to reach 92/93% accuracy on validation set
-  - Further tune model to counter overfitting. 
   - Save model to the back-end of web-app, and connect back and front end of web-app.
   - Look into 3d object matching (rather than guessing only the label, order object within found class from best to worst match)
