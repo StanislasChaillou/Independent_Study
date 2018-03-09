@@ -10,8 +10,9 @@ Work completed this week:
   
   - Double size of dataset: Increase number of classes (10) and number of images per object (from 14 to 30).
   - Upload to cloud, with FloydHub, to leverage higher computational power.
+  
   - **Result:**
-  For the same amoount of classes, a higher image resolution and a new image capturing path for the camera, our model performs around 93% accuracy on the validation set (against 80% for the previous model).
+  For the same amount of classes, a higher image resolution and a new image capturing path for the camera, our model performs around 93% accuracy on the validation set (against 80% for the previous model).
   
   
 - **Reduce overfitting**:
