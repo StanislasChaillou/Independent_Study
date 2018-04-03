@@ -17,10 +17,10 @@ Work completed this week:
 - **Matching** : [Notebook](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week%204/Matching_Model.ipynb)
 
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/best_match_1.JPG" width="700"></div>
-      - Top 10 best matches in database (200 objects)
+      - Top 10 **best** matches in database (200 objects)
 
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/best_matches_1.JPG" width="700"></div>
     
-    - Top 10 worst matches in database (200 objects)
+    - Top 10 **worst** matches in database (200 objects)
     
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/worst_matches_1.JPG" width="700"></div>
