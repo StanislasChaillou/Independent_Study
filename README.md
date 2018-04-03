@@ -23,10 +23,10 @@ Overall, our tool would comply with the following scheme:</p>
 <b>Advancement</b>
 
 <ul>
-  <li>[Week 1 : Neural Network vs Convolutional Neural Network](https://github.com/StanislasChaillou/Independent_Study/tree/master/Week_1)</li>
-  <li>[Week 2 : Transfer Learning](https://github.com/StanislasChaillou/Independent_Study/tree/master/Week2)</li>
-  <li>[Week 3 : Classification Model](https://github.com/StanislasChaillou/Independent_Study/tree/master/Week_3)</li>
-  <li>[Week 4 : Model Architecture](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week%204/Readme.md)</li>
+  <li><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>[Week 1 : Neural Network vs Convolutional Neural Network](https://github.com/StanislasChaillou/Independent_Study/tree/master/Week_1)</li>
+  <li><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>[Week 2 : Transfer Learning](https://github.com/StanislasChaillou/Independent_Study/tree/master/Week2)</li>
+  <li><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>[Week 3 : Classification Model](https://github.com/StanislasChaillou/Independent_Study/tree/master/Week_3)</li>
+  <li><a href="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week%204/Readme.md">Week 4 : Model Architecture</a>[]()</li>
 </ul>
  
 <b>Deliverables</b>
