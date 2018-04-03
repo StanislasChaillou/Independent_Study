@@ -10,7 +10,7 @@ Work completed this week:
     
       <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/model_scheme_1.JPG" width="700"></div>
     
-- **Classification** : [Notebook](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week%204/Classification_Model.ipynb)
+- **Classification** : Notebook ([Training](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week%204/Classification_Model.ipynb), [Testing](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week%204/Classification_Model_testing.ipynb))
 
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/ml_chair.gif" width="700"></div>
 
