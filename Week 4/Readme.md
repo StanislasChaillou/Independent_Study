@@ -13,3 +13,6 @@ Work completed this week:
 - **Classification**
 
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/ml_chair.gif" width="700"></div>
+
+- **Matching**
+
