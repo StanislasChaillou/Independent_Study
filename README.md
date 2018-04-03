@@ -19,7 +19,15 @@ Using this technic, our goal ultimately is to be able to give a label to an obje
 Overall, our tool would comply with the following scheme:</p>
  
  ![alt text]( https://github.com/StanislasChaillou/Independent_Study/blob/master/Other/img_1.jpg)
+ 
+<b>Advancement</b>
 
+<ul>
+  <li>[Week 1 : Neural Network vs Convolutional Neural Network](https://github.com/StanislasChaillou/Independent_Study/tree/master/Week_1)</li>
+  <li>[Week 2 : Transfer Learning](https://github.com/StanislasChaillou/Independent_Study/tree/master/Week2)</li>
+  <li>[Week 3 : Classification Model](https://github.com/StanislasChaillou/Independent_Study/tree/master/Week_3)</li>
+  <li>[Week 4 : Model Architecture](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week%204/Readme.md)</li>
+</ul>
  
 <b>Deliverables</b>
 
