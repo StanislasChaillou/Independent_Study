@@ -19,5 +19,5 @@ Work completed this week:
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/best_match_1.JPG" width="700"></div>
     - Top 10 best matches
 
-  <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/best_match_1.JPG" width="700"></div>
+  <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/best_matches_1.JPG" width="700"></div>
     
