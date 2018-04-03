@@ -3,10 +3,12 @@
 
 Work completed this week:
 
-- **Defined suggesiton pipeline**
+- **Defined overall model architecture**
   - 2 Steps:
     - Classification: Uses model trained on all classes | recognize class of 3D object
     - Matching: Uses model trained on model of each specific class | one model per class | ranks all model in class from best to worst match.
+    
+    
   
   
     
