@@ -23,10 +23,10 @@ Overall, our tool would comply with the following scheme:</p>
 <b>Advancement</b>
 
 <ul>
-  <li><a href="https://github.com/StanislasChaillou/Independent_Study/tree/master/Week_1">Week 1 : Neural Network vs Convolutional Neural Network</a></li>
-  <li><a href="https://github.com/StanislasChaillou/Independent_Study/tree/master/Week2">Week 2 : Transfer Learning</a></li>
-  <li><a href="https://github.com/StanislasChaillou/Independent_Study/tree/master/Week_3">Week 3 : Classification Model</a></li>
-  <li><a href="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week%204/Readme.md">Week 4 : Model Architecture</a></li>
+  <li><a href="https://github.com/StanislasChaillou/Independent_Study/tree/master/Week_1"><b>Week 1</b> : Neural Network vs Convolutional Neural Network</a></li>
+  <li><a href="https://github.com/StanislasChaillou/Independent_Study/tree/master/Week2"><b>Week 2</b> : Transfer Learning</a></li>
+  <li><a href="https://github.com/StanislasChaillou/Independent_Study/tree/master/Week_3"><b>Week 3</b> : Classification Model</a></li>
+  <li><a href="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week%204/Readme.md"><b>Week 4</b> : Model Architecture</a></li>
 </ul>
  
 <b>Deliverables</b>
