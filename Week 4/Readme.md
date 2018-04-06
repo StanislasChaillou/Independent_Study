@@ -26,6 +26,6 @@ Work completed this week:
     
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/worst_matches_1.JPG" width="700"></div>
 
-- **Testing**
+- **Testing** : [Notebook](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week%204/Testing_Matching_Model.ipynb)
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/Matching_gif_1250.gif" width="700"></div>
 
