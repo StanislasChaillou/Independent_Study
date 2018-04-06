@@ -13,7 +13,7 @@
 
 - **ResNet50**:
 	- Long training time
-	- Accuracy around 0.65 on validaiton set. Noisy Accuracy.
+	- Accuracy around 0.65 on validation set. Noisy Accuracy.
 	- Very Strong Overfitting after 60 epochs. 
 	
 ![alt text](https://github.com/StanislasChaillou/Independent_Study/blob/master/Week2/IMG/acc_1.png)
