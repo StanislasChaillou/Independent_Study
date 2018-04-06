@@ -25,3 +25,7 @@ Work completed this week:
     - Top 10 **worst** matches in database (200 objects)
     
   <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/worst_matches_1.JPG" width="700"></div>
+
+- **Testing**
+  <div align="center" style="margin:20px"><img src="https://github.com/StanislasChaillou/Independent_Study/blob/master/Week 4/Matching_gif_1250.gif" width="700"></div>
+
